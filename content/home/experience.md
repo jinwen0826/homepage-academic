@@ -5,7 +5,7 @@ experience:
   - title: Data Analysis Intern
     company: Lufax Holding Ltd
     company_url: https://en.wikipedia.org/wiki/Lufax
-    company_logo: org-x
+    company_logo: lufax
     location: ""
     date_start: 2020-10-09
     date_end: 2021-04-08
@@ -35,7 +35,7 @@ experience:
     company: Rallycry Ventures
     company_url: https://rallycry.vc/
     company_logo: org-x
-    location: Massachusetts
+    location: ""
     date_start: 2020-07-01
     date_end: 2020-08-05
     description: |-2
