@@ -30,7 +30,7 @@ education:
     - course: BS in Investment
       institution: Zhongnan University of Economics and Law
       year: ""
-email: ""
+email: jinwen@uw.edu
 superuser: true
 highlight_name: true
 ---
