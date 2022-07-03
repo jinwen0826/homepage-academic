@@ -23,15 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://www.kaggle.com
     date_end: ''
     date_start: '2021-09-01'
     description: Kaggle Data Science Competition
@@ -39,14 +31,47 @@ item:
     organization_url: https://www.kaggle.com
     title: Jane Street Market Prediction，Top 11%
     url: https://www.kaggle.com/amanda6666
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+  - certificate_url: https://www.coursera.org
+    date_end: ''
+    date_start: '2021-01-25'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Using Databases with Python
     url: ''
+  - certificate_url: https://www.coursera.org
+    date_end: ''
+    date_start: '2021-01-25'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Python Data Structures
+    url: ''
+  - certificate_url: https://www.coursera.org
+    date_end: ''
+    date_start: '2021-01-25'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Capstone: Retrieving, Processing,and Visualizing Data with Python
+    url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/L3QYST2X6KDG
+    date_end: ''
+    date_start: '2021-01-25'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Using Python to Access Web Data
+    url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/UCJGB8HY2JEF
+    date_end: ''
+    date_start: '2022-01-01'
+    description: ""
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Introduction to Data Science in Python
+    url: ""
+  
 
 design:
   columns: '2'
