@@ -25,13 +25,13 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: jinwen@uw.edu
+  phone: (+1) 206 200 4742
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 4557 11th Ave NE
+    city: Seattle
+    region: WA
+    postcode: '98105'
     country: United States
     country_code: US
   coordinates:
@@ -43,10 +43,6 @@ content:
     - 'Wednesday 09:00 to 10:00'
   appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
     - icon: video
       icon_pack: fas
       name: Zoom Me
