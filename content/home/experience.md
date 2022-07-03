@@ -1,6 +1,12 @@
 ---
 widget: experience
-date_format: Jan 2006
+headless: true
+weight: 40
+title: Experience
+subtitle: null
+design:
+  columns: "2"
+# date_format: Jan 2006
 experience:
   - title: Data Analysis Intern
     company: Lufax Holding Ltd
@@ -37,10 +43,10 @@ experience:
         * Communication and problem-solving skills: Discussed with team members weekly to find solutions according to
           some data indicators changing and urgent problems; Accomplished delegated urgent assignments at a fast pace.
 
-headless: true
-weight: 40
-title: Experience
-subtitle: null
-design:
+# headless: true
+# weight: 40
+# title: Experience
+# subtitle: null
+# design:
   columns: "2"
 ---
