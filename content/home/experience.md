@@ -54,8 +54,8 @@ experience:
     date_end: 2019-11-30
     description: |-2
         Responsibilities include:
-        * Constructed Financial Models:Collected financial statement data of 70 listed companies and used appropriate valuation models to predict the following year's P/E, P/S, ROE and other indicators.
-        * Independently Research:Completed a research report on Science and Technology Innovation Board stock "Ruichuangweina" by completing analysis on the company's financial condition and its technologies as well as the greater macroeconomic environment.
+        * Constructed Financial Models:Collected financial statement data of 70 listed companies and used appropriate valuation models to predict the                 following year's P/E, P/S, ROE and other indicators.
+        * Independently Research:Completed a research report on Science and Technology Innovation Board stock "Ruichuangweina" by completing analysis on             the company's financial condition and its technologies as well as the greater macroeconomic environment.
   
   
   
@@ -68,9 +68,7 @@ experience:
     date_end: 2018-08-30
     description: |-2
         Responsibilities include:
-        * Credit Risk Measurement:Used IRB (Internal Ratings-Based Approach) to measure the risk premium on loan
-pricing and calculated the average loss during the reporting period to estimate the default loss rate using the Expected
-Loss Rate Model, then determined the loan risk level and finally wrote a report about my summer project result.
+        * Credit Risk Measurement:Used IRB (Internal Ratings-Based Approach) to measure the risk premium on loan pricing and calculated the average loss             during the reporting period to estimate the default loss rate using the Expected Loss Rate Model, then determined the loan risk level and finally           wrote a report about my summer project result.
        
 
 headless: true
