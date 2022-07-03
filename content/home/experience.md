@@ -32,13 +32,13 @@ delivery efficiency by 4 percent.
         Responsibilities include:
         
         * Financial Modelling: Developed DCF Modelling and comparable multiple valuation to retail companies and
-technical companies and wrote a valuation report about these companies according to their background, promising
-technologies, future growth.
+          technical companies and wrote a valuation report about these companies according to their background, promising
+          technologies, future growth.
         * Quantitative skills: Wrote SQL queries to collect and visualize financial data, then used supervised learning model
-to find the data features of buying/selling signals; Collaborated with quants to dig features that can be added to
-predict futures price; Wrote validated features by python to optimize buying/selling orders.
+          to find the data features of buying/selling signals; Collaborated with quants to dig features that can be added to
+          predict futures price; Wrote validated features by python to optimize buying/selling orders.
         * Communication and problem-solving skills: Discussed with team members weekly to find solutions according to
-some data indicators changing and urgent problems; Accomplished delegated urgent assignments at a fast pace.
+          some data indicators changing and urgent problems; Accomplished delegated urgent assignments at a fast pace.
 
 
 
