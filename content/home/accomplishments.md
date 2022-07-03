@@ -36,7 +36,7 @@ item:
     date_start: '2021-09'
     description: Kaggle Data Science Competition
     organization: Kaggle
-    organization_url:https://www.kaggle.com/
+    organization_url: https://www.kaggle.com
     title: Jane Street Market Prediction，Top 11%
     url: https://www.kaggle.com/amanda6666
   - certificate_url: https://www.datacamp.com
