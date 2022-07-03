@@ -4,9 +4,7 @@ role: MS in Computational Finance and Risk Management
 avatar_filename: 我的证件照.jpg
 bio: ""
 interests:
-  - Risk Management
-  - Data
-  - Computationl Finance
+  - RiskManagement
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,7 +24,7 @@ education:
   courses:
     - course: MS in Computational Finance and Risk Management
       institution: University of Washington
-      year: ""
+      year: 2021
     - course: BS in Investment
       institution: Zhongnan University of Economics and Law
       year: ""
@@ -36,7 +34,7 @@ highlight_name: true
 ---
 Welcome
 
-Nice to meet you! 你好～ ヾ(o´ω｀o)ﾉﾞ
+Nice to meet you! 你好～
 
 My name is Jinwen Li (李锦炆).
 
