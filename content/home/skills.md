@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description: 100%
     icon: r-project
     icon_pack: fab
     name: R
@@ -24,10 +24,20 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
+    
+  - description: 100%
+    icon: database
+    icon_pack: fas
+    name: SQL
+  - description: 90%
+    icon: python
+    icon_pack: brands
+    name: Python
+  
+  - description: 90%
     icon: camera-retro
     icon_pack: fas
-    name: Photography
+    name: Tableau
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
