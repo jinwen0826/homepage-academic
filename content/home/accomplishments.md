@@ -33,7 +33,7 @@ item:
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
-    date_start: '2021-09'
+    date_start: '2021-09-01'
     description: Kaggle Data Science Competition
     organization: Kaggle
     organization_url: https://www.kaggle.com
