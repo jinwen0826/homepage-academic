@@ -1,7 +1,7 @@
 ---
 title: Jinwen Li
 role: MS in Computational Finance and Risk Management
-avatar_filename: 我的证件照.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Risk Management
