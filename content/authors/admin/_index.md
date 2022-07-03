@@ -4,7 +4,9 @@ role: MS in Computational Finance and Risk Management
 avatar_filename: 我的证件照.jpg
 bio: ""
 interests:
-  - RiskManagement
+  - Risk Management
+  - Data
+  - Computational Finance
 social:
   - icon: envelope
     icon_pack: fas
