@@ -5,7 +5,7 @@ experience:
   - title: Data Analysis Intern
     company: Lufax Holding Ltd
     company_url: https://en.wikipedia.org/wiki/Lufax
-    company_logo: lufax
+    company_logo: lufax3
     location: ""
     date_start: 2020-10-09
     date_end: 2021-04-08
