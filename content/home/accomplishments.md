@@ -52,8 +52,8 @@ item:
     date_start: '2021-01-25'
     description: ''
     organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Capstone: Retrieving, Processing,and Visualizing Data with Python
+    organization_url:https://www.coursera.org
+    title: Capstone ":" Retrieving,Processing,and Visualizing Data with Python
     url: ''
   - certificate_url: https://www.coursera.org/account/accomplishments/verify/L3QYST2X6KDG
     date_end: ''
