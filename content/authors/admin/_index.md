@@ -1,8 +1,8 @@
 ---
 title: Jinwen Li
-role: Student at University of Washington
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: MS in Computational Finance and Risk Management
+avatar_filename: 我的证件照.jpg
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -10,42 +10,36 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: jinwen@uw.edu
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jinwen0826
   - display:
       header: false
     link: https://www.linkedin.com/in/jinwen-li-2893921a4/
     icon_pack: fab
     icon: linkedin
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Washington
+    url: https://www.washington.edu/
 education:
   courses:
-    - course: Master at University of Washington
+    - course: MS in Computational Finance and Risk Management
       institution: University of Washington
-      year: 2021
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: -2
+    - course: BS in Investment
+      institution: Zhongnan University of Economics and Law
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
 ---
+Welcome
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nice to meet you! 你好～ ヾ(o´ω｀o)ﾉﾞ
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My name is Jinwen Li (李锦炆).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a master’s in computational finance and risk management at University of Washington and will graduate in December 2022.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
