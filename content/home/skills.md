@@ -31,13 +31,16 @@ feature:
     name: SQL
   - description: 90%
     icon: python
-    icon_pack: brands
+    icon_pack: fab
     name: Python
-  
   - description: 90%
-    icon: camera-retro
+    icon: table
     icon_pack: fas
     name: Tableau
+  - description: Level I passed
+    icon: book
+    icon_pack: fas
+    name: CFA
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
