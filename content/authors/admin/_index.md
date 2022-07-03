@@ -8,9 +8,6 @@ interests:
   - Data
   - Computational Finance
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: jinwen@uw.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/jinwen0826
@@ -41,5 +38,7 @@ Nice to meet you! 你好～
 My name is Jinwen Li (李锦炆).
 
 I am a master’s in computational finance and risk management at University of Washington and will graduate in December 2022.
+
+I can be contacted through jinwen@uw.edu.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
