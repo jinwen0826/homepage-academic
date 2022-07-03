@@ -4,9 +4,9 @@ role: MS in Computational Finance and Risk Management
 avatar_filename: 我的证件照.jpg
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Risk Management
+  - Data
+  - Computationl Finance
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,7 +26,7 @@ education:
   courses:
     - course: MS in Computational Finance and Risk Management
       institution: University of Washington
-      year: -2
+      year: ""
     - course: BS in Investment
       institution: Zhongnan University of Economics and Law
       year: ""
