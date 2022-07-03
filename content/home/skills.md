@@ -16,24 +16,24 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 100%
+  - description: ""
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 100%
+  - description: ""
     icon: chart-line
     icon_pack: fas
     name: Statistics
     
-  - description: 100%
+  - description: ""
     icon: database
     icon_pack: fas
     name: SQL
-  - description: 90%
+  - description: ""
     icon: python
     icon_pack: fab
     name: Python
-  - description: 90%
+  - description: ""
     icon: table
     icon_pack: fas
     name: Tableau
