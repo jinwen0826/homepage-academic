@@ -7,7 +7,7 @@ experience:
     company_url: https://en.wikipedia.org/wiki/Lufax
     company_logo: org-x
     location: ""
-    date_start: 2020-10
+    date_start: Oct 2020
     date_end: 2021-04
     description: |-2
         Responsibilities include:
