@@ -19,7 +19,7 @@ experience:
   - title: Financial Analyst Intern
     company: Daowei Investment Management Co. LTD
     company_url: ""
-    company_logo: org-gc
+    company_logo: tw
     location: ""
     date_start: 2020-08-05
     date_end: 2020-10-05
