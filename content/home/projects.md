@@ -27,10 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Credit Risk Measurement and Risk Control Strategy of Green Bonds
-      tag: '*'
-    - name: Quantitative Investment Project
-      tag: '*'
+    - name: Risk Management
+      tag: 'Risk'
+    - name: Quantitative Investment
+      tag: 'Quant'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -41,7 +41,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
