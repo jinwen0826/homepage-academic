@@ -34,7 +34,7 @@ experience:
   - title: Data Analysis Intern
     company: Rallycry Ventures
     company_url: https://rallycry.vc/
-    company_logo: org-x
+    company_logo: rallycry
     location: ""
     date_start: 2020-07-01
     date_end: 2020-08-05
