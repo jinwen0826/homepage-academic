@@ -19,7 +19,7 @@ experience:
   - title: Financial Analyst Intern
     company: Daowei Investment Management Co. LTD
     company_url: ""
-    company_logo: org-x
+    company_logo: org-gc
     location: ""
     date_start: 2020-08-05
     date_end: 2020-10-05
@@ -62,7 +62,7 @@ experience:
   - title: Credit Department Project Intern
     company: China Construction Bank
     company_url: http://www.ccb.com/en/home/indexv3.html
-    company_logo: org-x
+    company_logo: ccb
     location: ""
     date_start: 2018-07-01
     date_end: 2018-08-30
