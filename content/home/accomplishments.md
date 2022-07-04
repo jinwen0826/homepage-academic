@@ -13,7 +13,7 @@ item:
   - certificate_url: https://www.coursera.org/account/accomplishments/verify/HXDR3PH54W5N
     date_end: 2021-06-28
     date_start: 2021-03-01
-    description: Using database
+    description: ""
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Using Databases with Python
