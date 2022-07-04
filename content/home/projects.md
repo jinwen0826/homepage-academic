@@ -28,9 +28,9 @@ content:
     - name: All
       tag: '*'
     - name: Credit Risk Measurement and Risk Control Strategy of Green Bonds
-      tag: Risk Management
+      tag: Risk
     - name: Quantitative Investment Project
-      tag: Quantitative Investment
+      tag: Quantitative
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
