@@ -1,12 +1,27 @@
 ---
-title: Quantitative Investment project
-date: 2022-07-04T09:57:54.285Z
-draft: false
-featured: false
+title: Credit Risk Measurement and Risk Control Strategy of Green Bonds Under Breaking the Rigid Payment
+— summary: Based KMV and Expected Loss Rate Model
 tags:
   - Risk
+date: '2018-09-27T00:00:00Z'
+
+# Optional external URL for project (replaces project detail page).
+external_link: ''
+
 image:
-  filename: featured
+  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-  preview_only: false
+
+# links:
+# - icon: ""
+#    icon_pack: fab
+#    name: ""
+#   url: ""
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
+
 ---
+
+Credit Risk Measurement and Risk Control Strategy of Green Bonds Under Breaking the Rigid Payment—Based KMV and Expected Loss Rate Model, Zhongnan University of Economics and Law, Fall 2018.
