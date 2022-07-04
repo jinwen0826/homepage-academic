@@ -34,7 +34,7 @@ experience:
   - title: Data Analysis Intern
     company: Rallycry Ventures
     company_url: https://rallycry.vc/
-    company_logo: rallycry
+    company_logo: rallycry1
     location: ""
     date_start: 2020-07-01
     date_end: 2020-08-05
@@ -48,7 +48,7 @@ experience:
   - title: Investment Department Research Intern
     company: Industrial Securities
     company_url: ""
-    company_logo: org-x
+    company_logo: xinye
     location: ""
     date_start: 2019-07-01
     date_end: 2019-11-30
