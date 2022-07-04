@@ -27,9 +27,9 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Credit Risk Measurement and Risk Control Strategy of Green Bonds Under Breaking the Rigid Payment—Based KMV and Expected Loss Rate Model
+    - name: Credit Risk Measurement and Risk Control Strategy of Green Bonds
       tag: Risk Management
-    - name: Quantitative Investment Project (Developed channel strategy, kinetic energy index strategy using python)
+    - name: Quantitative Investment Project
       tag: Quantitative Investment
 
 design:
@@ -41,7 +41,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 1
+  view: 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
