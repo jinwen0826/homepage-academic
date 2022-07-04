@@ -57,6 +57,4 @@ title: Accomplish&shy;ments
 subtitle: null
 design:
   columns: "2"
-  # background:
-    image: kaggle.jpg
 ---
