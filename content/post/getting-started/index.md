@@ -3,7 +3,7 @@ title: Welcome to see Jinwen's posts
 subtitle: ''
 
 # Summary for listings and search engines
-summary:''
+summary: ''
 
 # Link this post with a project
 projects: []
