@@ -32,7 +32,7 @@ url_video: ''
 # slides: example
 ---
 
-Credit Risk Measurement and Risk Control Strategy of Green Bonds Under Breaking the Rigid Payment—Based KMV and Expected Loss Rate Model
+Credit Risk Measurement and Risk Control Strategy of Green Bonds Under Breaking the Rigid Payment—Based KMV and Expected Loss Rate Model,  
 
 Zhongnan University of Economics and Law, Fall 2018.
 
