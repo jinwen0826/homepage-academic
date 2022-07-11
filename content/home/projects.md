@@ -31,6 +31,8 @@ content:
       tag: 'Risk'
     - name: Quantitative Investment
       tag: 'Quant'
+    - name: Movie Prediction Project
+      tag: 'ML'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
