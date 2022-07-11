@@ -2,7 +2,7 @@
 title: Movies Prediction Project
 date: 2022-07-11T22:13:32.255Z
 draft: false
-external_link: https://learning.edx.org/course/course-v1:HarvardX+PH125.9x+1T2022/block-v1:HarvardX+PH125.9x+1T2022+type@sequential+block@e8800e37aa444297a3a2f35bf84ce452/block-v1:HarvardX+PH125.9x+1T2022+type@vertical+block@5dc89f24ec02450b91ac16eac0cec1f6
+external_link: https://learning.edx.org/course/course-v1:HarvardX+PH125.9x+1T2022/home
 url_slides: ""
 subtitle: Used Machine Learning algorithm to predict the movies' ratings in R.
 tags:
