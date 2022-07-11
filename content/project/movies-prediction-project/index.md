@@ -7,7 +7,7 @@ url_slides: ""
 subtitle: Used Machine Learning algorithm to predict the movies' ratings in R.
 tags:
   - ML
-— summary: HarvardX PH125.9x Edx project (Data Science: Capstone)
+— summary: HarvardX PH125.9x Edx project(Data Science Capstone)
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
