@@ -6,7 +6,7 @@ external_link: https://learning.edx.org/course/course-v1:HarvardX+PH125.9x+1T202
 url_slides: ""
 subtitle: Used Machine Learning algorithm to predict the movies' ratings in R.
 tags:
-  - ML
+  - DS
 — summary: HarvardX PH125.9x Edx project(Data Science Capstone)
 image:
   caption: Photo by rawpixel on Unsplash
