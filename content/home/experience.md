@@ -24,8 +24,7 @@ experience:
         Responsibilities include:
         * Exploratory Data Analysis: Wrote Exploratory Data Analysis (EDA) reports including analyzed companies’ customers and profit data which can help our customers do their business decisions better.
         * Machine Learning Models and Deployment: Used Machine learning algorithms to do customer segmentations, to analyze profit seasonality and do profit forecasting, then deployed these models using Flask.
-        * Business sense: Converted machine learning metrics into Business metrics and wrote reports to explain results
-to business side.
+        * Business sense: Converted machine learning metrics into Business metrics and wrote reports to explain results to business side.
   - title: Data Analysis Intern
     company: Lufax Holding Ltd
     company_url: https://en.wikipedia.org/wiki/Lufax
