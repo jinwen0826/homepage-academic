@@ -2,7 +2,6 @@
 widget: experience
 date_format: Jan 2006
 experience:
-
 - title: Data Science Intern
     company: IZEA
     company_url: https://www.izea.com
