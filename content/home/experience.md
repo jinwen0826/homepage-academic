@@ -5,7 +5,7 @@ experience:
 - title: Data Science Intern
     company: IZEA
     company_url: https://www.izea.com
-    company_logo: tw
+    company_logo: izea-logo
     location: Orlando
     date_start: 2022-09-12
     date_end: 2022-12-05
@@ -17,7 +17,7 @@ experience:
 - title: Data Science Intern
     company: Data Glacier
     company_url: ""
-    company_logo: tw
+    company_logo: dataglacierlogo
     location: ""
     date_start: 2022-06-30
     date_end: 2022-09-30
