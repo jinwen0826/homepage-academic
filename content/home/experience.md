@@ -2,7 +2,7 @@
 widget: experience
 date_format: Jan 2006
 experience:
-- title: Data Science Intern
+  - title: Data Science Intern
     company: IZEA
     company_url: https://www.izea.com
     company_logo: izea-logo
@@ -14,7 +14,7 @@ experience:
         * In progress
         * Machine Learning Model: Build models to predict the campaign's spot price for our customers, according to the campaign's performance metrics, such as likes, comments, and engagements.
    
-- title: Data Science Intern
+  - title: Data Science Intern
     company: Data Glacier
     company_url: ""
     company_logo: dataglacierlogo
