@@ -2,7 +2,7 @@
 widget: experience
 date_format: Jan 2006
 experience:
-- title: Data Analytics & Strategy Intern
+- title: Data Science Intern
     company: IZEA
     company_url: https://www.izea.com
     company_logo: tw
