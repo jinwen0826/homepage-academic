@@ -16,7 +16,7 @@ experience:
   - title: Data Science Intern
     company: Data Glacier
     company_url: ""
-    company_logo: dataglacierlogo
+    company_logo: dataglacierlog
     location: ""
     date_start: 2022-06-30
     date_end: 2022-09-30
