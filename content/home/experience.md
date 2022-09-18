@@ -2,6 +2,32 @@
 widget: experience
 date_format: Jan 2006
 experience:
+- title: Data Analytics & Strategy Intern
+    company: IZEA
+    company_url: https://www.izea.com
+    company_logo: tw
+    location: Orlando
+    date_start: 2022-09-12
+    date_end: 2022-12-05
+    description: |-2
+        Responsibilities include:
+        * In progress
+        * Machine Learning Model: Build models to predict the campaign's spot price for our customers, according to the campaign's performance metrics, such as likes, comments, and engagements.
+   
+- title: Data Science Intern
+    company: Data Glacier
+    company_url: ""
+    company_logo: tw
+    location: ""
+    date_start: 2022-06-30
+    date_end: 2022-09-30
+    description: |-2
+        Responsibilities include:
+        * Exploratory Data Analysis: Wrote Exploratory Data Analysis (EDA) reports including analyzed companies’ customers and profit data which can help our customers do their business decisions better.
+        * Machine Learning Models and Deployment: Used Machine learning algorithms to do customer segmentations, to analyze profit seasonality and do profit forecasting, then deployed these models using Flask.
+        * Business sense: Converted machine learning metrics into Business metrics and wrote reports to explain results
+to business side.
+
   - title: Data Analysis Intern
     company: Lufax Holding Ltd
     company_url: https://en.wikipedia.org/wiki/Lufax
