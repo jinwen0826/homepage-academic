@@ -12,8 +12,7 @@ experience:
     description: |-2
         Responsibilities include:
         * In progress
-        * Machine Learning Model: Build models to predict the campaign's spot price for our customers, according to the campaign's performance metrics, such as likes, comments, and engagements.
-   
+        * Machine Learning Model: Build models to predict the campaign's spot price for our customers, according to the campaign's performance metrics, such as likes, comments, and engagements. 
   - title: Data Science Intern
     company: Data Glacier
     company_url: ""
@@ -27,7 +26,6 @@ experience:
         * Machine Learning Models and Deployment: Used Machine learning algorithms to do customer segmentations, to analyze profit seasonality and do profit forecasting, then deployed these models using Flask.
         * Business sense: Converted machine learning metrics into Business metrics and wrote reports to explain results
 to business side.
-
   - title: Data Analysis Intern
     company: Lufax Holding Ltd
     company_url: https://en.wikipedia.org/wiki/Lufax
